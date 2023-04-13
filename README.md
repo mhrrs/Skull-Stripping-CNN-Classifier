@@ -17,3 +17,9 @@ zip_file_path = 'BSE_BET_DATA.zip'
 
 with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:<br>
   zip_ref.extractall('image_data')
+
+
+### Link for additional dataset:
+[http://preprocessed-connectomes-project.org/NFB_skullstripped/]
+
+Download the NFBS skull-stripped images file (about 2 gigs)
