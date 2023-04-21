@@ -12,8 +12,11 @@ Each file is outlined below:
 ### model1.ipynb
 - This file contains the training script & necessary data preprocessing for **Model 1** outlined in the presentation and project report.
 
-### model2.ipynb/torch_preProcessing.ipynb
+### model2.ipynb
 - This file contains the training script & necessary data preprocessing for **Model 2** outlined in the presentation and project report.
+
+### torch_preProcessing.ipynb
+- Early version of model 2 development.
 
 ### data_exploration.ipynb
 - This file contains some preliminary data exploration & code to create some of the graphs used in the report.
